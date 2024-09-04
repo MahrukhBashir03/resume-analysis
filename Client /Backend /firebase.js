@@ -3,7 +3,7 @@ import 'firebase/auth';
 import 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCoTOdeyVFxH7jxdt-W4dIoBNYMvRDmGWg",
+  apiKey: "*******************************************",
   authDomain: "ai-powered-talent-platform.firebaseapp.com",
   projectId: "ai-powered-talent-platform",
   storageBucket: "ai-powered-talent-platform.appspot.com",
